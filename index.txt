@@ -127,7 +127,7 @@ The doctor will provide you proper prescription. We will also provide home deliv
   <div class="w3-row-padding ">
     <div class="w3-col m4 w3-margin-bottom">
       <div class="w3-light-grey">
-        <img src="C:\Users\Admin\Desktop\Thesis\Mamun Sir.jpg" alt="Mamun Rabbani" style="width:100%">
+        <img src="Mamun Sir.jpg" alt="Mamun Rabbani" style="width:100%">
         <div class="w3-container">
           <h3>Mamun Rabbani</h3>
           <p class="b4-opacity-max">CEO & Founder</p>
