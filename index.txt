@@ -148,7 +148,7 @@ The doctor will provide you proper prescription. We will also provide home deliv
     </div>
     <div class="w3-col m4 w3-margin-bottom">
       <div class="w3-light-grey">
-        <img src="![Didarul](https://user-images.githubusercontent.com/87324261/126868972-4e4ab2cd-8088-4963-8cb8-d857d17c0c92.jpg)" alt="Didarul" style="width:100%">
+        <img src="https://github.com/Didarul34/Hospital-Management-System/blob/main/Didarul.jpg" alt="Didarul" style="width:100%">
         <div class="w3-container">
           <h3>Didarul Islam</h3>
           <p class="b4-opacity-max">Under-grad student</p>
